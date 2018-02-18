@@ -637,7 +637,7 @@ jQuery(function($) {
 			if (!en_desarrollo) {
 				$("#bootstrap_css").attr("href", "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css");
 			} else {
-				$("#bootstrap_css").attr("href", "../css/bootstrap.css");
+				$("#bootstrap_css").attr("href", "lib/bootstrap.css");
 			};
       $("#estilo_cv").attr("href", "cv.css");
       if (!en_desarrollo) {
