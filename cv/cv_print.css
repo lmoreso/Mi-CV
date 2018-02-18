@@ -1,0 +1,287 @@
+/* Estilos generales 
+****************************************************************************************************************************** */
+
+@media print {
+	@page {
+	  size: A4 portrait;  
+	  margin-left: 20mm;
+	  margin-right: 15mm;
+	  margin-top: 20mm;
+	  margin-bottom: 15mm;
+	}
+
+	a {
+		text-decoration: none;	
+		color: black;	
+	}
+}
+
+body {
+  float: none !important;
+  width: 176.1mm !important;  /* A4 - margenes + 4mm de padding en todos los elementos*/
+  margin: 0 auto !important;
+  padding: 0 !important;
+  font: 90% Georgia, "Times New Roman", Times, serif !important;
+  background-color: #fff;
+}
+
+h1, h2, h3 {
+	text-decoration: underline;
+	text-align: center;
+}
+
+h4, h5 {
+	padding: 0 2mm 0 !important;
+	margin: 2mm 0 1mm !important;
+}
+
+p {
+	text-align: justify;
+	padding: 0 2mm 0 !important;
+	margin: 0 0 1mm !important;
+}
+
+table {
+    width: 100%;
+}
+
+td {
+	padding-left: 2mm;
+}
+
+th {
+	padding-left: 2mm;
+	text-align: right;
+}
+
+
+/* Clases Genéricas 
+****************************************************************************************************************************** */
+.no_page_break {
+  page-break-inside: avoid;
+}
+
+.no_page_break_after {
+  page-break-after: avoid;
+}
+
+.no_page_break_before {
+  page-break-before: avoid;
+}
+
+.pr_width_all {
+	width: 100%;
+}
+
+.pr_width_90 {
+	width: 85%;
+}
+
+.pr_width_25 {
+	width: 25%;
+}
+
+.pr_float_left {
+	float: left;
+}
+
+.pr_text_center, .text_center {
+	text-align: center;	
+}
+
+/* Clases específicas 
+****************************************************************************************************************************** */
+.titols {
+	text-align: center;
+	color: #000;
+	margin-top: 5mm;
+	margin-bottom: 3mm;
+	text-decoration: underline;
+	font-size: 190%;
+	font-weight: bold;
+	page-break-after: avoid;
+}
+
+/* Elementos a esconder 
+****************************************************************************************************************************** */
+#banner-sup, .navbar-toggle {
+  display: none !important;
+}
+
+@media print {
+	#contact_iconos, #cont_print, footer, .navbar-wrapper {  
+		display: none !important;
+	}
+}
+
+.mostrar_solo_vers_prn	 {
+	display: block;
+} 
+
+.mostrar_solo_vers_web {
+	display: none;
+} 
+
+/* Extracto 
+****************************************************************************************************************************** */
+.fotocara {
+  height: auto;
+  width: 25mm;
+  float: left;
+}
+
+#acercademi {
+	padding: 0 2mm 0;
+	text-indent: 5mm;
+	float: left;
+}
+
+
+/* Experiencia 
+****************************************************************************************************************************** */
+.prn_workDetails {
+	width: 100%;
+    page-break-inside: avoid;
+    margin-bottom: 4mm;
+    border-style: none none solid none;
+    border-width: thin;
+    padding-top: 2mm;
+    padding-bottom: 2mm;
+}
+
+.prn_workDivLogo {
+	width: 100%;
+	height: 10mm;
+}
+
+.prn_workCargo {
+	vertical-align: 50%;	
+	font-weight: bold;
+	font-size: 120%;
+	text-align: right;
+	margin-left: 2mm;
+}
+
+.prn_workEmpresa {
+	vertical-align: 50%;	
+	font-weight: bold;
+	font-size: 140%;
+	margin-left: 2mm;
+}
+
+
+
+/* Estudios 
+****************************************************************************************************************************** */
+#education {
+    border-style: none none solid none;
+    border-width: thin;	
+    padding-bottom: 3mm;
+    margin-bottom: 2mm;
+}
+
+.pr_estudios {
+	width: 100%;
+    page-break-inside: avoid;
+    margin-bottom: 2mm;
+    padding-bottom: 2mm;
+}
+
+.pr_tit_estudios {
+	font-weight: bold;
+	font-size: 120%;
+}
+
+.for_col_periodo {
+  width: 20mm;
+}
+
+/* Pie 
+****************************************************************************************************************************** */
+#contact_iconos  {	
+	width: 100%;
+	margin-bottom: 4mm;
+	margin-top: 2mm;
+	padding-top: 4mm;
+	border-style: solid none none none;
+	border-width: thin;
+}
+
+#contactos_prn {
+	padding-bottom: 4mm;
+}
+
+footer {
+	margin: 3mm 0 3mm 0;
+	padding-top: 3mm;
+    border-style: solid none none none;
+    border-width: thin;
+	width: 100%;
+	float: left;
+	text-align: center;	
+}
+
+/* Menú 
+****************************************************************************************************************************** */
+.navbar-wrapper {
+	margin: auto;
+  	margin-top:0;
+  	width: 180mm;
+  	height: 50px;
+  	background: #0A64A4;
+  	border-color: #0A64A4;
+  	padding:0;
+}
+
+.navbar-header{
+    float:left;
+    margin-left: 10px;
+    margin-top: 10px;
+    padding:0;
+}
+
+.navbar-collapse {
+    float:left;
+    margin-left: 10px;
+    margin-top: 0px;
+    padding:0;
+    height: 50px;
+    font-weight: bold;
+}
+
+.navbar-collapse ul
+{
+    list-style:none;
+    float:left;
+    padding:0;
+    height: 50px;
+}
+ 
+.navbar-collapse ul li
+{
+    float:left;
+    padding-right:10px;
+    padding-left:10px;
+    border-radius: 15%;
+    height: 50px;
+}
+.navbar-collapse ul li a
+{
+    text-decoration:none;
+}
+
+.navbar.navbar-inverse.navbar-static-top a{
+  color:#fff;
+}
+
+.navbar.navbar-inverse.navbar-static-top a:hover{
+  color:#1590AA;
+}
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus{
+  background:#0A64A4;
+  color:#1590AA;
+}
+.navbar-inverse .navbar-nav>.active>a:hover {
+  background:#0A64A4;
+  color:#1590AA;
+}

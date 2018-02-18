@@ -1,0 +1,337 @@
+/* Estils propis
+-------------------------------------------------- */
+.mostrar_solo_vers_prn {
+  display: none;
+} 
+
+.mostrar_solo_vers_web {
+  display: block;
+} 
+
+.bordes_finos {    
+  border-style: solid;
+  border-width: thin;
+}
+
+.text_center {
+  text-align: center; 
+}
+
+.aboutme {
+  height: auto;
+  width: 60%;
+  float: left;
+}
+
+.divfotocara {
+  float: left;
+}
+
+.fotocara {
+  height: auto;
+  width: 200px;
+}
+
+.tit_conocimientos {
+  margin-left: 16px;
+}
+
+.conocimientos {
+  height: 180px;
+  width: 250px;
+  float: left;
+  margin-left: 8px;
+  margin-right: 8px;
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+
+.idiomas  {
+  height: 90px;
+  width: 250px;
+  float: left;
+  margin-left: 8px;
+  margin-right: 8px;
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+
+.for_col_periodo {
+  width: 30mm;
+}
+
+.datos_pers  {
+  height: 90px;
+  width: 120px;
+  float: left;
+  margin: 6px;
+  padding: 3px;
+  text-align:center;
+}
+
+.lletrabanner {
+	text-align:center;
+	color: #fff;
+	font-family: impact;
+	letter-spacing: 0;
+	text-shadow: -3px -3px 3px #0A64A4, 3px -3px 3px #0A64A4, -3px 3px 3px #0A64A4, 3px 3px 3px #0000DF;
+}
+
+.titols {
+	text-align:center;
+	color: #fff;
+	font-family: impact;
+	text-shadow: -3px -3px 3px #0A64A4, 3px -3px 3px #0A64A4, -3px 3px 3px #0A64A4, 3px 3px 3px #0A64A4;
+  margin-bottom: 85px;
+}
+
+.subtitols  {
+	text-align:center;
+	color: #666;
+	font-family: impact;
+}
+
+.titulo_tabla_idiomas{
+  background: #1590AA;
+  color: #FFFFFF;
+}
+
+/*----------------------------------------------------
+ 8. Work Experience Style
+------------------------------------------------------*/
+.exprience {
+  background:#fff;
+}
+.exprience .container {
+  padding-top:85px;
+  padding-bottom:90px;
+}
+.exprience h2 {
+  color:#ff675f;
+}
+.exprience p {
+  color:#84868d;
+  /*font-size:13px;*/
+  line-height:18px;
+}
+.exprience .heading p {
+  padding-bottom:41px;
+}
+.exprience h4 {
+  font-weight:700;
+}
+.workDetails .rightArea {
+  border-left: solid 1px #eaeaea;
+  padding-bottom:47px;
+}
+.workDetails:last-child .rightArea {
+  padding-bottom:0px;
+}
+.workYear {
+  font-size:17px;
+  color:#fff;
+  background:#1590AA;
+  text-align:center;
+  width:120px;
+  height:120px;
+  padding:40px 0 40px 0;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+}
+.arrowpart {
+  float:left;
+  width:15px;
+  height:50px;
+  background:url(recursos/arrow-left.png) no-repeat 0 23px;
+}
+.exCon {
+  width:auto;
+  background:#f3f3f3;
+  border-bottom:solid 4px #eeeeee;
+  padding:22px 47px 6px 47px;
+  margin-left:15px;
+  text-align:left;
+}
+.exCon p {
+  color:#84868d;
+  line-height:21px;
+}
+.exCon h4 {
+  color:#474d5d;
+  padding-bottom:3px;
+}
+.exCon h5 {
+  color:#474d5d;
+}
+
+/* Estils per a 'Cursos Tecnológicos': com l'anterior pero tot mes reduit */
+.formYear {
+  font-size:15px;
+  color:#fff;
+  background:#1590AA;
+  text-align:center;
+  width:80px;
+  height:80px;
+  padding:27px 0 20px 0;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+  margin-left: 20px;
+}
+.formDetails .rightArea {
+  border-left: solid 1px #eaeaea;
+  padding-bottom:12px;
+}
+.formDetails:last-child .rightArea {
+  padding-bottom:0px;
+}
+
+
+/* GLOBAL STYLES
+-------------------------------------------------- */
+/* Padding below the footer and lighter body text */
+
+
+body {
+  padding-bottom: 40px;
+  color: #5a5a5a;
+}
+
+footer {
+  margin-top: 15px;
+}
+
+#features {
+  max-width:none;
+}
+
+.no_float {
+  float: none;
+}
+
+.row.featurette {
+  padding: 0 80px;
+  margin-right:0px;
+  margin-left:0px;
+}
+
+.row.featurette:nth-child(even){
+  background:#e6f1fa;
+  padding-bottom:50px;
+}
+
+.isStuck{
+    left:0px;
+    width:100%;
+}
+/* CUSTOMIZE THE NAVBAR
+-------------------------------------------------- */
+
+/* Special class on .container surrounding .navbar, used for positioning it into place. */
+.navbar-wrapper {
+  margin-top:20px;
+  position: relative;
+  z-index: 15;
+}
+
+.navbar.navbar-inverse.navbar-static-top {
+  background: #0A64A4;
+  border-color: #0A64A4;
+}
+.navbar.navbar-inverse.navbar-static-top a{
+  color:#fff;
+}
+.navbar.navbar-inverse.navbar-static-top a:hover{
+  color:#1590AA;
+}
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus{
+  background:#1590AA;
+  font-weight:700;
+}
+.navbar-inverse .navbar-nav>.active>a:hover {
+  background:#1590AA;
+  color:#fff;
+  font-weight:700;
+}
+
+.sub-menu {
+  background-color: #0A64A4;
+
+}
+
+/* CUSTOMIZE THE CAROUSEL
+-------------------------------------------------- */
+
+/* Carousel base class */
+.carousel {
+  /*
+  margin-bottom: 60px;
+
+  margin-top: -90px;
+
+  Negative margin to pull up carousel. 90px is roughly margins and height of navbar. */
+}
+/* Since positioning the image, we need to help out the caption */
+.carousel-caption {
+  z-index: 10;
+}
+
+/* Declare heights because of positioning of img element */
+.carousel .item {
+  height: 450px;
+  background-color: #0A64A4;
+}
+.carousel-inner > .item > img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  min-width: 100%;
+}
+
+/* Featurettes
+------------------------- */
+
+.featurette-divider {
+  margin: 80px 0; /* Space out the Bootstrap <hr> more */
+}
+
+/* Thin out the marketing headings */
+.featurette-heading {
+  font-weight: 300;
+  line-height: 1;
+  letter-spacing: -1px;
+}
+
+
+
+/* RESPONSIVE CSS
+-------------------------------------------------- */
+
+@media (min-width: 768px) {
+
+  /* Navbar positioning foo */
+  .navbar-wrapper {
+
+  }
+  /* The navbar becomes detached from the top, so we round the corners */
+  .navbar-wrapper .navbar {
+    border-radius: 4px;
+  }
+
+  /* Bump up size of carousel content */
+  .carousel-caption p {
+    margin-bottom: 20px;
+    font-size: 21px;
+    line-height: 1.4;
+  }
+
+  .featurette-heading {
+    font-size: 50px;
+  }
+
+}
+
+@media (min-width: 992px) {
+  .featurette-heading {
+    margin-top: 120px;
+  }
+}

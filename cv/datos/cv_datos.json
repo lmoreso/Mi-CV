@@ -1,0 +1,677 @@
+{
+  "config": {
+  	"mostrar_logros": 1,
+  	"mostrar_referencias": 1,
+  	"mostrar_referencias_firts": 1,
+  	"mostrar_logros_firts": 1,
+  	"prn_mostrar_logros": 1,
+	"foto_fondo": "foto_fondo.jpg",
+	"foto_cara": "foto_cara.jpg"
+  },
+  "ultima_actualiz": "07/07/2016",
+  "nombre": "Lluís Moreso Bosch",
+  "titulo": "Consultor/Técnico especialista en Nómina con Meta4 PeopleNet",
+  "extracto": [
+  	"Ingeniero en Informática de Gestión con experiencia funcional en el área de Administración de Personal, en nómina y en sus procesos derivados, con Meta4 e-Mind y Meta4 PeopleNet, desde 1999 y hasta la actualidad.",
+  	"Me considero una persona organizada y resolutiva dentro y fuera del ámbito laboral. Responsable y meticuloso en el desarrollo de mi trabajo, tanto sólo como en equipo, produzco análisis y software económicos y de gran calidad."
+  ],
+  "datos_pers": [
+	{
+		"literal":"LinkedIn",
+		"titulo": "Visita mi perfil en LinkedIn",
+		"valor": "",
+		"url":"https://www.linkedin.com/in/consultornominameta4bcn",
+		"icono":"recursos/ico_linkedin.png"
+	},
+	{
+		"literal":"Url",
+		"titulo": "Visita mi web",
+		"valor": "",
+		"url":"http://lmoreso.neocities.org/cv/cv.html",
+		"icono":"recursos/ico_web.png"
+	},
+	{
+		"literal":"e-mail",
+		"titulo": "",
+		"valor": "lmoreso@yahoo.com",
+		"url": "mailto:lmoreso@yahoo.com",
+		"icono":"recursos/ico_correo.png"
+	},
+	{
+		"literal":"Dirección",
+		"titulo": "",
+		"valor": "Montmeló (Barcelona)",
+		"url":"https://www.google.es/maps/place/Montmel%C3%B3,+Barcelona",
+		"icono":"recursos/ico_ubicacion.png"
+	},
+	{
+		"literal":"Nacionalidad",
+		"titulo": "",
+		"valor": "Española",
+		"url": "",
+		"icono": ""
+	},
+	{
+		"literal":"Fecha nacimiento",
+		"titulo": "",
+		"valor": "1964",
+		"url": "",
+		"icono": ""
+	},
+	{
+		"literal":"Teléfono",
+		"titulo": "",
+		"valor": "",
+		"url": "",
+		"icono":"recursos/ico_tel.png"
+	},
+	{
+		"literal":"Facebook",
+		"titulo": "Visita mi perfil en Facebook",
+		"valor": "",
+		"url":"https://www.facebook.com/lluis.moresobosch",
+		"icono":"recursos/ico_facebook.png"
+	},
+	{
+		"literal":"Twitter",
+		"titulo": "Consulta mi Twitter",
+		"valor": "",
+		"url":"",
+		"icono":"recursos/ico_twitter.png"
+	},
+	{
+		"literal":"Youtube",
+		"titulo": "Visita mi canal en Youtube",
+		"valor": "",
+		"url":"",
+		"icono":"recursos/ico_youtube.png"
+	},
+	{
+		"literal":"Google+",
+		"titulo": "Visita mi perfil en Google+",
+		"valor": "",
+		"url":"https://plus.google.com/112057675823696685881",
+		"icono":"recursos/ico_google.png"
+	}
+  ],    
+  "tipos_competencia": [
+	{ 
+	 	"tipo":"func",
+	 	"descripcion": "Competencias Funcionales",
+	 	"leyenda": "(0) desconocimiento | (5) experto",
+	 	"formato":"largo"
+	},
+	{ 
+	 	"tipo":"tech",
+	 	"descripcion": "Herramientas de Desarrollo",
+	 	"leyenda": "(0) desconocimiento | (5) experto",
+	 	"formato":"largo"
+	},
+	{ 
+	 	"tipo":"usu",
+	 	"descripcion": "Informática en general",
+	 	"leyenda": "(0) desconocimiento | (5) experto",
+	 	"formato":"largo"
+	},
+	{ 
+	 	"tipo":"idio",
+	 	"descripcion": "Idiomas",
+	 	"leyenda": "... | (4) Competencia profesional completa | (5) Lengua materna",
+	 	"formato":"corto"
+	}
+  ],
+  "competencias": [
+	{ 
+	 	"tipo":"func",
+	 	"nivel":5,
+	 	"competencia": "Nómina y Adm. de personal",
+	 	"descripcion": "Desde 1998 hasta la actualidad",
+	 	"tareas": [
+	 	    "Liderando y analizando proyectos y evolutivos de Nómina y Administración de Personal"
+	 	]
+	},
+	{ 
+	 	"tipo":"func",
+	 	"nivel":4,
+	 	"competencia": "Prevención de Riesgos",
+	 	"descripcion": "Desde 2002 hasta la actualidad",
+	 	"tareas": [		
+	 	    "Liderando y analizando proyectos y evolutivos para PRL"
+	 	]
+	},
+	{ 
+	 	"tipo":"func",
+	 	"nivel":4,
+	 	"competencia": "RRHH",
+	 	"descripcion": "Desde 2003 hasta la actualidad",
+	 	"tareas": [	 		
+	 	    "Liderando y analizando proyectos y evolutivos para RRHH"
+	 	]
+	},
+	{ 
+	 	"tipo":"tech",
+	 	"nivel":5,
+	 	"competencia": "Meta4 e-Mind",
+	 	"descripcion": "Desde 1998 hasta 2008",
+	 	"tareas": [
+	 	    "Liderando Implantaciones de Nómina y Portal del Empleado",
+	 	    "Manteniendo la nómina",
+	 	    "Instalando los 'ServicePack'"
+	 	]
+	},
+	{ 
+	 	"tipo":"tech",
+	 	"nivel":5,
+	 	"competencia": "Meta4 PeopleNet",
+	 	"descripcion": "Desde 2004 hasta la actualidad",
+	 	"tareas": [
+ 	    	"Manteniendo la nómina",
+	 	    "Instalando los 'ServicePack'"
+	 	]
+	},
+	{ 
+	 	"tipo":"tech",
+	 	"nivel":5,
+	 	"competencia": "Oracle PL-SQL",
+	 	"descripcion": "Desde 1998 hasta la actualidad",
+	 	"tareas": [
+	 		"DDL y DML",
+	 		"Triggers, Funciones y Procedimientos"
+	 	]
+	},
+	{ 
+	 	"tipo":"tech",
+	 	"nivel":4,
+	 	"competencia": "SQL Server",
+	 	"descripcion": "Desde 1998 hasta 2008",
+	 	"tareas": [
+	 		"DDL y DML",
+	 		"Triggers, Funciones y Procedimientos",
+	 		"Asumiendo en la mayoria de clientes el rol de Administrador"
+	 	]
+	},
+	{ 
+	 	"tipo":"tech",
+	 	"nivel":4,
+	 	"competencia": "VBScript desde PeopleNet",
+	 	"descripcion": "Desde 2004",
+	 	"tareas": [
+	 		"Creando documentos Excel y Word",
+	 		"Manejando formularios Adobe Acrobat"
+	 	]
+	},
+	{ 
+	 	"tipo":"tech",
+	 	"nivel":4,
+	 	"competencia": "Visual Basic / C",
+	 	"descripcion": "De 1992 a 1996",
+	 	"tareas": ["Desarrollando software de diseño gráfico para Windows"]
+	},
+	{ 
+	 	"tipo":"tech",
+	 	"nivel":4,
+	 	"competencia": "Delphi (Object Pascal)",
+	 	"descripcion": "De 1996 a 1998",
+	 	"tareas": [
+	 		"Desarrollando software de gestión comercial para PYMES",
+	 		"Actualmente probando 'Lazarus' (Object Pascal)"
+	 	]
+	},
+	{ 
+	 	"tipo":"tech",
+	 	"nivel":4,
+	 	"competencia":"C++",
+	 	"descripcion": "En 1993 desarrollé el Proyecto de Fin de carrera",
+	 	"tareas": ["Aplicación de diseño gráfico con curvas bezier, fuentes TrueType y ficheros EPS"]
+	},
+	{ 
+	 	"tipo":"tech",
+	 	"nivel":4,
+	 	"competencia": "HTML5 / JavaScript / jQuery",
+	 	"descripcion": "Conocimientos sin experiencia laboral",
+	 	"tareas": ["He realizado esta página web"]
+	},
+	{ 
+	 	"tipo":"tech",
+	 	"nivel":3,
+	 	"competencia": "JSP con Dreamweaver",
+	 	"descripcion": "Desde 2001",
+	 	"tareas": ["Ocasionalmente he trabajado en el Portal del Empleado y del Mánager de Meta4"]
+	},
+	{ 
+	 	"tipo":"tech",
+	 	"nivel":3,
+	 	"competencia": "JavaEE con Eclipse",
+	 	"descripcion": "Conocimientos sin experiencia laboral",
+	 	"tareas": []
+	},
+	{ 
+	 	"tipo":"usu",
+	 	"nivel":5,
+	 	"competencia":"Ofimática",
+	 	"descripcion": "Experto usuario de MSOffice y OpenOffice:",
+	 	"tareas": ["Hojas de cálculo.","Tratamiento de texto.", "Presentaciones.", "Bases de Datos."]
+	},
+	{ 
+	 	"tipo":"usu",
+	 	"nivel":4,
+	 	"competencia": "Diseño Gráfico",
+	 	"descripcion": "De 1992 a 1996 trabajando con CorelDraw y Adobe Ilustrator",
+	 	"tareas": ["Actualmente usuario de INKscape"]
+	},
+	{ 
+	 	"tipo":"usu",
+	 	"nivel":4,
+	 	"competencia": "Tratamiento de Imágen",
+	 	"descripcion": "De 1992 a 1996 trabajando con Photostyler (precursor de Photoshop)",
+	 	"tareas": ["Actualmente usuario de GIMP"]
+	},
+	{ 
+	 	"tipo":"usu",
+	 	"nivel":4,
+	 	"competencia": "Linux",
+	 	"descripcion": "Instalación y uso de varias distribuciones a nivel particular",
+	 	"tareas": ["Ubuntu y derivadoss"]
+	},
+	{ 
+	 	"tipo":"idio",
+	 	"competencia": "Catalán",
+	 	"nivel":5,
+	 	"descripcion": "Lengua materna"
+	},
+	{ 
+	 	"tipo":"idio",
+	 	"competencia": "Castellano",
+	 	"nivel":5,
+	 	"descripcion": "Lengua materna"
+	},
+	{ 
+	 	"tipo":"idio",
+	 	"competencia": "Inglés",
+	 	"nivel":3,
+	 	"descripcion": "Competencia profesional básica"
+	},
+	{ 
+	 	"tipo":"idio",
+	 	"competencia": "Francés",
+	 	"nivel":3,
+	 	"descripcion": "Competencia profesional básica"
+	}	
+	
+  ],
+  "otrascomp": [
+	"Trabajo en equipo.",
+	"Asertividad y Empatía.",
+	"Capacidad de planificación y coordinación.",
+	"Alto grado de responsabilidad.",
+	"Orientación a resultados.",
+	"Autonomía.",
+	"Pro-actividad.",
+	"Resolución decisiones problemas y toma de decisiones.",
+	"Flexibilidad y capacidad de adaptación al cambio.",
+	"Aprendizaje permanente y mejora continua.",
+	"Permiso de conducir: B.",
+	"Guitarra Española: nivel básico."
+  ],
+  "explab": [
+	{
+		"desde": "Febrero 2008",
+		"hasta": "Actualidad",
+		"empresa": "MANGO",
+		"ubicacion": "Palau Solità i Plegamans, Barcelona, España.",
+		"enlace": "http://www.mango.com/web/oi/servicios/company/ES/trabajar/nuestro_adn.html",
+		"cargo": "Analista / Consultor / Jefe de Proyectos en PeopleNet",
+		"logo": "logo_mango.png",
+		"funciones": [
+			"Mantenimiento correctivo y evolutivo de la nómina (35 convenios y 6.000 empleados).",
+			"Instalación y validación de los Service Pack's.",
+			"Gestión de proyectos.",
+			"Otros evolutivos para Administración de Personal, Prevención de Riesgos, Formación y Selección."
+		],
+		"logros": [
+			"Gestión centralizada de Finiquitos: Información, cálculo y generación y envio de documentación a tiendas.",
+			"Envios de todo tipo de informes de nómina y personal a tiendas, según parametrización del organigrama",
+			"Ficha completa de Investigación de Accidentes",
+			"Desarrollo de API’s en LN4 para crear documentos Word y Excel desde PeopleNet vía VBScript.",
+			"Desarrollo de herramienta para realizar paralelos de nómina. Muestra diferencias de nómina en hojas Excel.",
+			"Evaluación del colaborador y cálculo del incentivo obtenido, así como su traspaso a nómina, para Managers (MSS) y Administración de Personal (PeopleNet).",
+			"Análisis comparativo del absentismo, por Unidad Organizativa. Permite comparar diferentes unidades y la evolución mensual de la unidad en relación al año en curso y al año anterior. Análisis de diferentes índices de absentismo y de costes. Presentación de todo ello en vistosas hojas Excel.",
+			"Gestión de Interinos. Incluye selección del absentismo a sustituir, selección del sustituto entre el personal con contrato de interinaje, información automática de la tabla estándar de ‘Absentismo sustituido’, así como enlaces desde y hacia los formularios de Mantenimiento de Periodo y Gestión de Incidencias.",
+			"Gestión de Excedencias. Procesos simplificados de alta y baja. Emisión de documentos y avisos de vencimientos.",
+			"Introducción simple y masiva de conceptos de Cotización retroactiva y/o futura. Configuración de los periodos de cotización de cada concepto. ",
+			"Certificado de Empresa en PDF, basado en el Certificad@ estándar. Unico PDF con dos certificados (cuado proceda) mas informe de horarios (para tiempo parcial).",
+			"Certificados de Riesgo en el embarazo, basado en el Certificado de Maternidad estándar.",
+			"Responsable de la implantación de la aplicación de Firma Digitalizada: envio y seguimiento de documentos desde PeopleNet al gestor documental para su firma en tableta."
+		],
+		"referencias": [
+			{
+				"nombre": "Ana Delfa",
+				"cargo": "Responsable Personal en Mango",
+				"url": "https://es.linkedin.com/in/ana-delfa-7b976287"
+			},
+			{
+				"nombre": "Alfonso Letosa",
+				"cargo": "HR - Head of Organisation and Development at Mango",
+				"url": "https://es.linkedin.com/in/alfonso-letosa-93b8045/es"
+			},
+			{
+				"nombre": "Helena Mora",
+				"cargo": "Health&Safety Manager Mango",
+				"url": "https://es.linkedin.com/in/helena-mora-69694297"
+			}			
+		]
+	},
+	{
+		"desde":"Enero 2001",
+		"hasta": "Febrero 2008",
+		"empresa": "NGA HR",
+		"ubicacion": "Barcelona, España.",
+		"enlace": "http://es.ngahr.com/",
+		"cargo": "Consultor / Jefe de Proyectos en Meta4 e-Mind y Meta4 PeopleNet",
+		"logo": "logo_nga.png",
+		"funciones": [
+			"Jefe de Proyectos y Mantenimiento de Meta4 e-Mind Nómina en diversos clientes (Sony España, Prenatal, Quadis, Comparex, UBE, Tybor, Flick Canarias).",
+			"Mantenimiento nómina y módulos de Administración de Personal en Mango (PeopleNet).",
+			"Realización y presentación de Ofertas a Clientes de Proyectos de implantación de Meta4 PeolpleNet."
+		],
+		"logros": [
+			"Migración de Meta4 v.1 (File Server) a Meta4Mind en Comparex España (2001).",
+			"Mantenimiento y nuevos desarrollos de Meta4Mind y Meta4e-Mind (2001-2008) en Comparex España, Prenatal, Sony BCN Plant, Caixa Terrassa, Quadis, Tybor, Flick Canarias y UBE.",
+			"Migración de Meta4Mind a Meta4e-Mind (2003-2004) en Sony BCN Plant, Quadis, UBE, Comparex España y Prenatal.",
+			"Formación técnica en Meta4 e-Mind (Banco de Sabadell).",
+			"Módulo de Gestión de Finiquitos en PeopleNet. Gestión centralizada de todos los procesos relacionados, generación de documentación y envío a tiendas en Mango (2003-2004).",
+			"Módulo de Envío a Tiendas y Secciones en PeopleNet. Envíos mensuales de informes de diferente tipo del departamento de personal a tiendas, coordinadoras, jefes de departamento, gerentes, etc. en Mango (2003-2004).",
+			"Fusión de las plataformas Meta4e-Mind de Sony BCN Plant y Sony España (base de datos, conceptos de nómina, desarrollos diversos, etc.), con dos consultores a cargo (2005).",
+			"Implantación de Meta4 K-System (módulos de RRHH de PeopleNet sobre e-Mind) y del módulo de PRL de PeopleNet en UBE. (2006-2007)."
+		],
+		"referencias": [
+			{
+				"nombre": "Amadeu Carbó",
+				"cargo": "Director at NGA Human Resources",
+				"url": "https://es.linkedin.com/in/amadeu-carbo-5bb8212"
+			},
+			{
+				"nombre": "Eduard Figuerol",
+				"cargo": "Project Manager at NGA Human Resources",
+				"url": "https://es.linkedin.com/in/eduard-figuerol-9b871710"
+			},			
+			{
+				"nombre": "Enric Canades",
+				"cargo": "Responsable Relaciones Laborales en Prenatal, S.A.",
+				"url": "https://es.linkedin.com/in/enric-canades-1815a220"
+			},			
+			{
+				"nombre": "Montserrat Piculla Guerrero",
+				"cargo": "Senior HR Specialist Iberia (anterior Responsable de procesos de nomina en Sony Europe Limited)",
+				"url": "https://es.linkedin.com/in/montsepiculla"
+			},	
+			{
+				"nombre": "Jose Luis Fulleda",
+				"cargo": "Human Resources Director at UBE Corporation Europe S.A.",
+				"url": "https://es.linkedin.com/in/jose-luis-fulleda-84635b17"
+			},
+			{
+				"nombre": "Marta Andreu",
+				"cargo": "RRHH en QUADIS",
+				"url": "https://es.linkedin.com/in/marta-andreu-8a167b14"
+			}	
+		]
+	},
+	{
+		"desde": "Junio 1998",
+		"hasta": "Enero 2001",
+		"empresa": "Informática El Corte Inglés",
+		"ubicacion": "Barcelona, España.",
+		"enlace": "http://www.iecisa.com",
+		"cargo": "Consultor / tecnico de nómina en Meta4 Mind",
+		"logo": "logo_iecisa.png",
+		"funciones": [
+			"Consultor / técnico Meta4 Mind Nómina. Implantación y Mantenimiento en Cargill España y Ayuntamiento de Pamplona.",
+			"Consultor / técnico Meta4 Mind RRHH. Implantación en Novartis España."
+		],
+		"logros": [
+			"Implantación Meta4Mind Nómina en Cargill España (1998-1999).",
+			"Implantación Meta4Mind Factor Humano en Novartis Pharma (1999).",
+			"Soporte a la implantación de Meta4Mind en Allianz Ras (1999).",
+			"Responsable Implantación Meta4Mind Nómina en el Ayuntamiento de Pamplona, con dos consultores a cargo (1999-2000)."
+		],
+		"referencias": [
+			{
+				"nombre": "Jorge Maroño Raya",
+				"cargo": "Senior Consultant en Squarepoint, S.L. (anterior Jefe de Sistemas de Información en Cargill España, S.A.)",
+				"url": "https://es.linkedin.com/in/jorge-maroño-raya-57747848"
+			}
+		]
+
+	},
+	{
+		"desde": "Julio 1996",
+		"hasta": "Mayo 1998",
+		"empresa": "SAGE",
+		"ubicacion": "Barcelona, España.",
+		"enlace": "http://www.sage.es",
+		"cargo": "Analista Programador Delphi / Object Pascal.",
+		"logo": "logo_sage.png",
+		"funciones": [
+			"Desarrollo software empresarial para PYMES en Delphi y BBDD relacionales."
+		],
+		"logros": [
+			"Desarrollo traspaso datos entre TPV Sage y Gestión Comerical Sage Línea100."
+		],
+		"referencias": [
+			{
+				"nombre": "Francesc Trulla Fernàndez",
+				"cargo": "Analista y jefe de proyectos en Saasti 2011 S.L. (anterior Jefe de Proyecto de Gestion Comercial 100 en Sage)",
+				"url": "https://es.linkedin.com/in/francesc-trulla-fernàndez-81401854"
+			},
+			{
+				"nombre": "Santiago Lecomte",
+				"cargo": "Business Unit Managing Director at Meta4 (anterior Product Director for Spain en Sage)",
+				"url": "https://fr.linkedin.com/in/jacqueslecomte/es"
+			}
+		]
+	},
+	{
+		"desde": "Mayo 1992",
+		"hasta": "Julio 1996",
+		"empresa": "Cibercat, S.L.",
+		"ubicacion": "Barcelona, España.",
+		"enlace": "http://www.cibercat.com/index.php",
+		"cargo": "Analista Programador Visual Basic y C.",
+		"logo": "logo_cibercat.png",
+		"funciones": [
+			"Responsable del mantenimiento y desarrollo de nuevas funcionalidades del software de diseño gráfico y corte de vinilo 'CiberCut', para rotulistas.",
+			"Tareas de Product Manager, venta, atención al cliente, soporte on-line, etc..."
+		],
+		"logros": [
+			"Ampliación funcionalidades Cibercut consiguiendo plena función de diseño, textos, formas etc.",
+			"Desarrollo primera versión CiberPrint, software RIP de impresión en color."
+		],
+		"referencias": [
+			{
+				"nombre": "Màrius Albert Serra Aznar",
+				"cargo": "Socio, colaborador en Cibercat S.L.",
+				"url": "https://es.linkedin.com/in/màrius-albert-serra-aznar-b8b42b20"
+			}
+		]
+	}	
+  ],
+  "estudios": [
+	{		
+		"desde": "Sep. 1991",
+		"hasta": "Junio 1994",
+		"centro": "Escola Universitaria d'Informàtica de Sabadell (UAB)",
+		"titulo": "Ingeniería Técnica en Informática de Gestión.",
+		"descripcion": [
+			"Nota final: Sobresaliente.",
+			"Proyecto Final de Carrera: Aplicación de diseño gráfico con edición de curvas bezier y fuentes TrueType, y gestión de ficheros EPS (Matricula de Honor)."
+		]
+	}
+  ],
+  "tipos_formacion": [
+	{ 
+	 	"tipo":"tech",
+	 	"descripcion": "Cursos Tecnológicos",
+	 	"formato":"vistoso"
+	},
+	{ 
+	 	"tipo":"otra",
+	 	"descripcion": "Otros Cursos o Seminarios",
+	 	"formato":"tabla"
+	}
+  ],
+  "formacion": [
+	{
+	 	"tipo":"tech",
+		"periodo": "2017",
+		"descripcion": "Creando Apps. Aprende a programar aplicaciones móviles (Apps. híbridas con Phonegap y Cordova).",
+		"centro": "Telefónica Universitas-MiríadaX",
+		"url": "https://miriadax.net/web/creando-apps-aprende-a-programar-aplicaciones-moviles"
+	},
+	{
+	 	"tipo":"tech",
+		"periodo": "2016",
+		"descripcion": "MOOC Programación con Java Standard",
+		"centro": "Telefónica Universitas-MiríadaX",
+		"url": "https://miriadax.net/web/programacion-con-java-standard"
+	},
+	{
+	 	"tipo":"tech",
+		"periodo": "2016",
+		"descripcion": "MOOC Gestión de proyectos con metodologías Ágiles y enfoques Lean",
+		"centro": "Telefónica Universitas-MiríadaX",
+		"url": "https://miriadax.net/web/metodologias-agiles-la-gestion-de-proyectos-del-sxxi"
+	},
+	{
+	 	"tipo":"tech",
+		"periodo": "2016",
+		"descripcion": "MOOC Programación para todos con Scratch",
+		"centro": "UOC-UCATx",
+		"url": "https://moocs.ucatx.cat/courses/course-v1:UOC+ProgramacionScratch+2016/about"
+	},
+	{
+	 	"tipo":"tech",
+		"periodo": "2016",
+		"descripcion": "MOOC Software libre: Ofimática con OpenOffice",
+		"centro": "Universidad Zaragoza-MiríadaX",
+		"url": "https://miriadax.net/web/software-libre-ofimatica-con-openoffice"
+	},
+	{
+	 	"tipo":"tech",
+		"periodo": "2016",
+		"descripcion": "MOOC Desarrollo en HTML5, CSS y Javascript de Apps Web, Android, IOS... ",
+		"centro": "UPM-MiríadaX",
+		"url": "https://miriadax.net/web/html5mooc"
+	},
+	{
+	 	"tipo":"tech",
+		"periodo": "2015",
+		"descripcion": "MOOC Introducción al Business Intelligence y al Big Data",
+		"centro": "UOC-MiríadaX",
+		"url": "https://miriadax.net/web/introduccion-al-business-intelligence-2-edicion-"
+	},
+	{
+	 	"tipo":"tech",
+		"periodo": "2014",
+		"descripcion": "Gestión de proyectos",
+		"centro": "Mango",
+		"url": ""
+	},
+	{
+	 	"tipo":"tech",
+		"periodo": "2014",
+		"descripcion": "Novedades técnicas y personalización de la apariencia de Meta4 PeopleNet 8",
+		"centro": "Mango-Meta4",
+		"url": ""
+	},
+	{
+	 	"tipo":"tech",
+		"periodo": "2013",
+		"descripcion": "Desarrollo de aplicaciones con JAVAEE y Eclipse",
+		"centro": "Mango-Netmind",
+		"url": "http://www.netmind.es/"
+	},
+	{
+	 	"tipo":"tech",
+		"periodo": "2013",
+		"descripcion": "Formularios PDF",
+		"centro": "Mango",
+		"url": ""
+	},
+	{
+	 	"tipo":"tech",
+		"periodo": "2011",
+		"descripcion": "Adobe Flash CS5 nivel I",
+		"centro": "Mango",
+		"url": ""
+	},
+	{
+	 	"tipo":"tech",
+		"periodo": "2006",
+		"descripcion": "Core y Herramientas Meta4 PeopleNet 7",
+		"centro": "NGA HR-Meta4",
+		"url": ""
+	},
+	{
+	 	"tipo":"tech",
+		"periodo": "2003",
+		"descripcion": "Implantación y Mantenimiento Meta4 ESS para Meta4 e-Mind",
+		"centro": "NGA HR-Meta4",
+		"url": ""
+	},
+	{
+	 	"tipo":"tech",
+		"periodo": "1998",
+		"descripcion": "Core, Herramientas y Nómina Meta4Mind",
+		"centro": "IECISA-Meta4",
+		"url": ""
+	},
+	{
+	 	"tipo":"otra",
+		"periodo": "2012-2015",
+		"descripcion": "Guitarra Española",
+		"centro": "Escola Municipal de Música de Montmeló"
+	},
+	{
+	 	"tipo":"otra",
+		"periodo": "2012-2014",
+		"descripcion": "Ingles a medida",
+		"centro": "Mango"
+	},
+	{
+	 	"tipo":"otra",
+		"periodo": "2013",
+		"descripcion": "Taller despierta tu potencial creativo",
+		"centro": "Mango"
+	},
+	{
+	 	"tipo":"otra",
+		"periodo": "2013",
+		"descripcion": "Taller Grafología",
+		"centro": "Mango"
+	},
+	{
+	 	"tipo":"otra",
+		"periodo": "2012",
+		"descripcion": "Movimiento corporal y emociones",
+		"centro": "Mango"
+	},
+	{
+	 	"tipo":"otra",
+		"periodo": "2012",
+		"descripcion": "Taller de Mindfulness",
+		"centro": "Mango"
+	},
+	{
+	 	"tipo":"otra",
+		"periodo": "2008",
+		"descripcion": "Gestión del tiempo con outlook",
+		"centro": "Mango"
+	},
+	{
+		"periodo": "2008",
+		"descripcion": "Taller de inteligencia emocional",
+		"centro": "Mango"
+	}
+  ]
+}
